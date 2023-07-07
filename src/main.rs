@@ -1,5 +1,6 @@
 mod fib;
+mod christmas;
 
 fn main() {
-    fib::main();
+    christmas::main();
 }
