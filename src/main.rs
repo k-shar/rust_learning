@@ -1,6 +1,7 @@
 mod fib;
 mod christmas;
+mod rectangle;
 
 fn main() {
-    christmas::main();
+    rectangle::main();
 }
